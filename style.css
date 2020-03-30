@@ -1,0 +1,22 @@
+body {
+  background-color: #e2fce3;
+  font-family: 'PT Serif', serif;
+}
+#title, #sub-title {
+  text-align: center;
+}
+#title {
+  font-size: 45px;
+}
+.img-div {
+  display: block;
+  height: auto;
+  text-align: center;
+  background-color: white;
+}
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin:auto;
+}
