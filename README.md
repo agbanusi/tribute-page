@@ -1,4 +1,4 @@
 # tribute-page
-A simple tribute page to showcase some of my earlier works
+A simple tribute page to Chinua Achebe
 
 https://agbanusi.github.io/tribute-page/
